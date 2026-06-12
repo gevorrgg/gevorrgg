@@ -1,6 +1,6 @@
 # Gevorg Khachatryan
 
-C/C++ systems developer focused on building and understanding low-level software: operating systems, networking stacks, and performance-critical code. I’m interested in how real-world systems are designed internally and how core infrastructure software works under the hood.
+Hi, I’m Gevorg. I enjoy programming in general — writing code, learning languages, and building software. I’m especially curious about how systems work under the hood and like exploring low-level C/C++ development.
 
 ---
 
